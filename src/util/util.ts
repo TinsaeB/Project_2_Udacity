@@ -1,5 +1,5 @@
 import fs from "fs";
-import Jimp = require("jimp");
+import Jimp from "jimp";
 
 // filterImageFromURL
 // helper function to download, filter, and save the filtered image locally
@@ -22,7 +22,7 @@ export async function filterImageFromURL(inputURL: string): Promise<string> {
           resolve(__dirname + outpath);
         });
     } catch (error) {
-      reject(error);
+      reject(error );
     }
   });
 }
