@@ -1,6 +1,8 @@
 <<<<<<< HEAD
 # Project_2_Udacity
 Repo for project 2 cloud developer Udacity Nano degree
+URL for the repository: 
+[main, dev branch] https://github.com/TinsaeB/Project_2_Udacity.git
 =======
 # Udagram Image Filtering Microservice
 
